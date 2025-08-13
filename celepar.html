@@ -381,8 +381,8 @@ function atualizarTabela(lista) {
        <td>${os.Resp}</td>
        <td>${os.Serviço}</td>
        <td>${os['% Fases']}</td>
-       <td>${os['PF Bruto']}</td>
-       <td>${os['PF Liquido']}</td>
+       <td>${os['PF Bruto'].toLocaleString('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</td>
+       <td>${os['PF Liquido'].toLocaleString('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</td>
        <td>${os.Status}</td>
        <td>${formatarDataBrasileira(os['DT Entrega Atual SGAT'])}</td>
        <td>${obsHtml}</td>`;
