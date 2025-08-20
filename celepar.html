@@ -165,7 +165,7 @@ body.light-mode .sistema-link {
 <div class="toggle-btn" onclick="toggleSidebar()"><i class="bi bi-chevron-left"></i></div>
 <div class="menu-content">
 <div class="menu-logo minsait-logo"><img alt="Logo Minsait" src="./img/logo_minsait.png"/></div>
-<div class="menu-logo celepar-logo"><img alt="Logo CELEPAR" src="./img/logo_celepar.png"/></div>
+<div class="menu-logo celepar-logo"><img alt="Logo CELEPAR" src="./imglogo_celepar.png"/></div>
 <div id="menu-tree"></div>
 </div>
 </div>
@@ -381,8 +381,8 @@ function atualizarTabela(lista) {
        <td>${os.Resp}</td>
        <td>${os.Serviço}</td>
        <td>${os['% Fases']}</td>
-       <td>${os['PF Bruto'].toLocaleString('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</td>
-       <td>${os['PF Liquido'].toLocaleString('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</td>
+       <td>${formatarNumeroBR(os['PF Bruto'])}</td>
+       <td>${formatarNumeroBR(os['PF Liquido'])}</td>
        <td>${os.Status}</td>
        <td>${formatarDataBrasileira(os['DT Entrega Atual SGAT'])}</td>
        <td>${obsHtml}</td>`;
@@ -429,7 +429,12 @@ function atualizarKPIsStatus(lista) {
     statusMap[status] = (statusMap[status] || 0) + 1;
   });
 
-  Object.entries(statusMap).forEach(([status, count]) => {
+  // 🔑 Ordenar alfabeticamente os status (pode trocar para ordenar por quantidade se quiser)
+  const ordenados = Object.entries(statusMap).sort((a, b) =>
+    a[0].localeCompare(b[0], 'pt-BR', { sensitivity: 'base' })
+  );
+
+  ordenados.forEach(([status, count]) => {
     const div = document.createElement('div');
     div.className = 'col-md-2';
     div.innerHTML =
@@ -440,6 +445,7 @@ function atualizarKPIsStatus(lista) {
     container.appendChild(div);
   });
 }
+
 
 /* ===== Ações de Limpeza ===== */
 function limparFiltros() {
@@ -461,6 +467,13 @@ function formatarDataBrasileira(dataStr) {
   if (partes.length === 3) return dataStr;
   const d = new Date(dataStr);
   return isNaN(d) ? dataStr : d.toLocaleDateString('pt-BR');
+}
+
+function formatarNumeroBR(valor) {
+  if (valor === null || valor === undefined || valor === "") return "";
+  const num = parseFloat(valor.toString().replace(",", "."));
+  if (isNaN(num)) return valor;
+  return num.toLocaleString("pt-BR", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
 }
 
 function exportarCSV() {
