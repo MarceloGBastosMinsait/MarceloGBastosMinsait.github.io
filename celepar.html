@@ -432,8 +432,8 @@
                                         <th class="sortable" onclick="sortTable(5)">PF Liquido</th>
                                         <th class="sortable" onclick="sortTable(6)">Status</th>
                                         <th class="sortable" onclick="sortTable(7)">DT Entrega Atual SGAT</th>
-                                        <th>% em Produção</th>
-                                        <th>Impedimentos</th>
+                                        <th class="sortable" onclick="sortTable(8)">% em Produção</th>
+                                        <th class="sortable" onclick="sortTable(9)">Impedimentos</th>
                                     </tr>
                                 </thead>
                                 <tbody id="os-table-body">
@@ -611,7 +611,7 @@
 
                     const obsHtml = os['Descrição dos Impedimentos'] ? `<div class="obs-popover" >⚠️<div class="obs-text" >${os['Descrição dos Impedimentos']}</div></div>` : '';
 
-                    tr.innerHTML = `<td>${os.OS}</td> <td>${os.Resp}</td> <td>${os.Serviço}</td> <td style="text-align: center;" >${formata_porcentagem(os['% Fases'])}</td> <td style="text-align: right;" >${formatarNumeroBR(os['PF Bruto'])}</td> <td style="text-align: right;" >${formatarNumeroBR(os['PF Liquido'])}</td> <td>${os.Status}</td> <td style="text-align: center;" >${formatarDataBrasileira(os['DT Entrega Atual SGAT'])}</td> <td style="text-align: center;" >${formata_porcentagem(os['Porcentagem de cada OS em produção'])}</td> <td style="text-align: center;" >${obsHtml}</td>`;
+                    tr.innerHTML = `<td>${os.OS}</td> <td>${os.Resp}</td> <td>${os.Serviço}</td> <td style="text-align: center;" >${formata_porcentagem(os['% Fases'])}</td> <td style="text-align: right;" >${formatarNumeroBR(os['PF Bruto'])}</td> <td style="text-align: right;" >${formatarNumeroBR(os['PF Liquido'])}</td> <td>${os.Status}</td> <td style="text-align: center;" >${formatarDataBrasileira(os['DT Entrega Atual SGAT'])}</td> <td style="text-align: center;" >${formata_porcentagem(os['Porcentagem de cada OS em produção'] * 100)}</td> <td style="text-align: center;" >${obsHtml}</td>`;
 
                     tbody.appendChild(tr);
                 });
