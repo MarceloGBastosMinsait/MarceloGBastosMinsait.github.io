@@ -9,8 +9,8 @@
     "PF Liquido":0,
     "Sistema":"GMSE - Sistema de Gestão de Materiais e Suprimento Escolar",
     "Status":"1. Liberada para o Fornecedor",
-    "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
+    "DT Entrega Atual SGAT":"2025-09-08",
+    "Descrição dos Impedimentos":"Sem impedimento ",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -24,8 +24,8 @@
     "Sistema":"GLIFI - Gestão de Licenças e Fiscalizações (PCPR)",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Em análise dos bugs para planejamento da OS.",
+    "Porcentagem de cada OS em produção":0.0
   },
   {
     "OS":1328,
@@ -38,8 +38,8 @@
     "Sistema":"Sistema de Ponto",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-30",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Sem impedimento ",
+    "Porcentagem de cada OS em produção":0.8
   },
   {
     "OS":1327,
@@ -47,12 +47,12 @@
     "Nome do Responsável":"Valt",
     "Serviço":"GM",
     "% Fases":95,
-    "PF Bruto":10,
-    "PF Liquido":9.5,
+    "PF Bruto":16.25,
+    "PF Liquido":15.4375,
     "Sistema":"Sistema de Ponto",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"2025-08-21",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Sem impedimento ",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -66,8 +66,8 @@
     "Sistema":"GLIFI - Gestão de Licenças e Fiscalizações (PCPR)",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"OS de desenvolvimento da OS 1325",
+    "Porcentagem de cada OS em produção":0.0
   },
   {
     "OS":1325,
@@ -80,8 +80,8 @@
     "Sistema":"GLIFI - Gestão de Licenças e Fiscalizações (PCPR)",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Data prevista: 02\/09",
+    "Porcentagem de cada OS em produção":0.0
   },
   {
     "OS":1324,
@@ -94,8 +94,8 @@
     "Sistema":"GLIFI - Gestão de Licenças e Fiscalizações (PCPR)",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"OS de desenvolvimento da OS 1323",
+    "Porcentagem de cada OS em produção":0.0
   },
   {
     "OS":1323,
@@ -108,8 +108,8 @@
     "Sistema":"GLIFI - Gestão de Licenças e Fiscalizações (PCPR)",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Data prevista: 22\/09 - Realizando contagem estimada para envio de proposta.",
+    "Porcentagem de cada OS em produção":0.0
   },
   {
     "OS":1322,
@@ -122,8 +122,8 @@
     "Sistema":"Aprova Paraná Universidades",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-29",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Sem impedimento = dos 3 mantis, 2 estão prontos",
+    "Porcentagem de cada OS em produção":0.66
   },
   {
     "OS":1321,
@@ -136,8 +136,8 @@
     "Sistema":"GLIFI - Gestão de Licenças e Fiscalizações (PCPR)",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"OS de desenvolvimento da 1320",
+    "Porcentagem de cada OS em produção":0.0
   },
   {
     "OS":1320,
@@ -150,8 +150,8 @@
     "Sistema":"GLIFI - Gestão de Licenças e Fiscalizações (PCPR)",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Data prevista: 11\/09 - Realizando contagem estimada para envio de proposta.",
+    "Porcentagem de cada OS em produção":0.0
   },
   {
     "OS":1319,
@@ -164,8 +164,8 @@
     "Sistema":"GLIFI - Gestão de Licenças e Fiscalizações (PCPR)",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"OS de desenvolvimento da 1298",
+    "Porcentagem de cada OS em produção":0.0
   },
   {
     "OS":1318,
@@ -179,7 +179,7 @@
     "Status":"2. Liberada Proposta para análise da Contratante",
     "DT Entrega Atual SGAT":"",
     "Descrição dos Impedimentos":"Aguardando aceita da celepar ",
-    "Porcentagem de cada OS em produção":0.0
+    "Porcentagem de cada OS em produção":""
   },
   {
     "OS":1317,
@@ -193,7 +193,7 @@
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
     "Descrição dos Impedimentos":"Proposta rejeitada por motivos de divergencia de contagem estimada ",
-    "Porcentagem de cada OS em produção":0.0
+    "Porcentagem de cada OS em produção":0.58
   },
   {
     "OS":1316,
@@ -207,7 +207,7 @@
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-29",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":0.0
+    "Porcentagem de cada OS em produção":""
   },
   {
     "OS":1315,
@@ -220,7 +220,7 @@
     "Sistema":"SISGEV",
     "Status":"2. Liberada Proposta para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-08-22",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Análise em andamento",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -253,12 +253,12 @@
   },
   {
     "OS":1311,
-    "Resp":"CH GYN",
-    "Nome do Responsável":"Danibua",
+    "Resp":"CWB",
+    "Nome do Responsável":"Valt",
     "Serviço":"Produção",
     "% Fases":95,
-    "PF Bruto":"",
-    "PF Liquido":0,
+    "PF Bruto":24.57,
+    "PF Liquido":23.3415,
     "Sistema":"Sistema de Ponto",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
@@ -276,8 +276,8 @@
     "Sistema":"Sistema de Ponto",
     "Status":"4. Liberada Execução para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-08-13",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Com Celepar ",
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1309,
@@ -346,7 +346,7 @@
     "Sistema":"CNH Social",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-20",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Em anadamento, sem impedimentos",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -360,7 +360,7 @@
     "Sistema":"CNH Social",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-15",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Em andamento, sem impedimentos",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -402,7 +402,7 @@
     "Sistema":"SRI",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Demanda Modificada pelo Djulles\nSem proposta cadastrada",
     "Porcentagem de cada OS em produção":0.0
   },
   {
@@ -417,7 +417,7 @@
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-19",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":0.0
+    "Porcentagem de cada OS em produção":""
   },
   {
     "OS":1299,
@@ -444,8 +444,8 @@
     "Sistema":"GLIFI - Gestão de Licenças e Fiscalizações (PCPR)",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-22",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Em andamento. Previsão de finalização em 22\/08",
+    "Porcentagem de cada OS em produção":0.85
   },
   {
     "OS":1297,
@@ -458,7 +458,7 @@
     "Sistema":"GLIFI - Gestão de Licenças e Fiscalizações (PCPR)",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Data prevista: 01\/09  - Realizando contagem estimada para envio de proposta.",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -528,8 +528,8 @@
     "Sistema":"SGA - Atualização Tecnológica [P1]",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-09-11",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Sem impedimento ",
+    "Porcentagem de cada OS em produção":0.0
   },
   {
     "OS":1291,
@@ -542,7 +542,7 @@
     "Sistema":"SGA - Atualização Tecnológica [P1]",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"2025-10-03",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Sem impedimento ",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -570,8 +570,8 @@
     "Sistema":"SRI",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":0.0
+    "Descrição dos Impedimentos":"Sem proposta cadastrada\nsquad de sustentação desfalcada",
+    "Porcentagem de cada OS em produção":0.3
   },
   {
     "OS":1287,
@@ -598,8 +598,8 @@
     "Sistema":"SRI",
     "Status":"4. Liberada Execução para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-08-12",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Execução sem analise da contratante",
+    "Porcentagem de cada OS em produção":0.9
   },
   {
     "OS":1285,
@@ -613,7 +613,7 @@
     "Status":"5. Execução Aceita - Aguardando Faturamento",
     "DT Entrega Atual SGAT":"2025-08-14",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1284,
@@ -626,7 +626,7 @@
     "Sistema":"GMSE - Sistema de Gestão de Materiais e Suprimento Escolar",
     "Status":"4. Liberada Execução para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-08-14",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Com Celepar ",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -752,7 +752,7 @@
     "Sistema":"Sistema de Ponto",
     "Status":"4. Liberada Execução para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-08-06",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Com Celepar ",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -761,13 +761,13 @@
     "Nome do Responsável":"Valt",
     "Serviço":"Produção",
     "% Fases":90,
-    "PF Bruto":0,
-    "PF Liquido":0,
+    "PF Bruto":44,
+    "PF Liquido":39.6,
     "Sistema":"SGA - Atualização Tecnológica [P1]",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-22",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Sem impedimento ",
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1268,
@@ -780,8 +780,8 @@
     "Sistema":"Sistema de Ponto",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-27",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Sem impedimento ",
+    "Porcentagem de cada OS em produção":0.9
   },
   {
     "OS":1267,
@@ -808,8 +808,8 @@
     "Sistema":"GLIFI - Gestão de Licenças e Fiscalizações (PCPR)",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-05",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Demanda concluída. Aguardando retorno da Maria para envio da execução da OS.",
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1265,
@@ -836,8 +836,8 @@
     "Sistema":"SICIN",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-13",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Ajustes a ser realizados",
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1263,
@@ -892,8 +892,8 @@
     "Sistema":"SRI",
     "Status":"4. Liberada Execução para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-08-05",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Execução sem analise da contratante",
+    "Porcentagem de cada OS em produção":0.9
   },
   {
     "OS":1259,
@@ -920,7 +920,7 @@
     "Sistema":"PROAJU",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"2025-08-27",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Sem impedimento ",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -948,7 +948,7 @@
     "Sistema":"Sistema de Ponto",
     "Status":"4. Liberada Execução para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-08-06",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Com Celepar ",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -976,7 +976,7 @@
     "Sistema":"SGA - Atualização Tecnológica [P1]",
     "Status":"4. Liberada Execução para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-08-13",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Com Celepar ",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -1046,8 +1046,8 @@
     "Sistema":"PROAJU",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-08",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Sem impedimento ",
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1248,
@@ -1074,7 +1074,7 @@
     "Sistema":"PORTE ESCOLAR",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-07-27",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Ajustes a ser realizados",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -1083,13 +1083,13 @@
     "Nome do Responsável":"Valt",
     "Serviço":"Produção",
     "% Fases":95,
-    "PF Bruto":0,
-    "PF Liquido":0,
+    "PF Bruto":45,
+    "PF Liquido":42.75,
     "Sistema":"Sistema de Ponto",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-27",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Sem impedimento ",
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1245,
@@ -1102,7 +1102,7 @@
     "Sistema":"Sistema de Ponto",
     "Status":"4. Liberada Execução para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-08-13",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Com Celepar ",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -1228,7 +1228,7 @@
     "Sistema":"PROAJU",
     "Status":"4. Liberada Execução para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-08-19",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Com Celepar ",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -1270,7 +1270,7 @@
     "Sistema":"SRI",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Sem proposta cadastrada",
     "Porcentagem de cada OS em produção":0.0
   },
   {
@@ -1284,7 +1284,7 @@
     "Sistema":"Delegação de Poderes",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Análise em andamento",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -1326,7 +1326,7 @@
     "Sistema":"SICIN",
     "Status":"4. Liberada Execução para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-08-15",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Com Celepar ",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -1340,8 +1340,8 @@
     "Sistema":"SGA - Atualização Tecnológica [P1]",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-30",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Falta realizar testes, a codex, tem que liberar o código deles em homologação",
+    "Porcentagem de cada OS em produção":0.9
   },
   {
     "OS":1226,
@@ -1452,7 +1452,7 @@
     "Sistema":"SRI",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Sem proposta cadastrada",
     "Porcentagem de cada OS em produção":0.0
   },
   {
@@ -1466,8 +1466,8 @@
     "Sistema":"SRI",
     "Status":"4. Liberada Execução para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-07-25",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Execução sem analise da contratante",
+    "Porcentagem de cada OS em produção":0.85
   },
   {
     "OS":1216,
@@ -1480,8 +1480,8 @@
     "Sistema":"SRI",
     "Status":"4. Liberada Execução para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-07-25",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Execução sem analise da contratante\nfaltando anexar a contagem detalhada",
+    "Porcentagem de cada OS em produção":0.85
   },
   {
     "OS":1215,
@@ -1537,7 +1537,7 @@
     "Status":"5. Execução Aceita - Aguardando Faturamento",
     "DT Entrega Atual SGAT":"2025-07-24",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1211,
@@ -1648,8 +1648,8 @@
     "Sistema":"GLIFI - Gestão de Licenças e Fiscalizações (PCPR)",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-07-25",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Em correção de bugs. Previsão de finalização em 22\/08",
+    "Porcentagem de cada OS em produção":0.9
   },
   {
     "OS":1203,
@@ -1662,8 +1662,8 @@
     "Sistema":"GLIFI - Gestão de Licenças e Fiscalizações (PCPR)",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-21",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Em andamento. Previsão de finalização em 21\/08.",
+    "Porcentagem de cada OS em produção":0.95
   },
   {
     "OS":1202,
@@ -1718,8 +1718,8 @@
     "Sistema":"PROAJU",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-11",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Sem impedimento ",
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1199,
@@ -1774,7 +1774,7 @@
     "Sistema":"PORTE ESCOLAR",
     "Status":"4. Liberada Execução para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-06-12",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Com Celepar ",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -1914,7 +1914,7 @@
     "Sistema":"Detran Atendimento",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"2025-09-15",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Prioridade é o SAM e o SGA",
     "Porcentagem de cada OS em produção":""
   },
   {
@@ -1956,7 +1956,7 @@
     "Sistema":"SRI",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Sem proposta cadastrada\nDefinir com o cliente a LA para a OS",
     "Porcentagem de cada OS em produção":0.0
   },
   {
@@ -1970,7 +1970,7 @@
     "Sistema":"SRI",
     "Status":"1. Liberada para o Fornecedor",
     "DT Entrega Atual SGAT":"",
-    "Descrição dos Impedimentos":"",
+    "Descrição dos Impedimentos":"Sem proposta cadastrada\nDefinir com o cliente a LA para a OS",
     "Porcentagem de cada OS em produção":0.0
   },
   {
@@ -2139,7 +2139,7 @@
     "Status":"5. Execução Aceita - Aguardando Faturamento",
     "DT Entrega Atual SGAT":"2025-06-13",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1168,
@@ -2208,8 +2208,8 @@
     "Sistema":"SICIN",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-10-21",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Sem impedimento ",
+    "Porcentagem de cada OS em produção":0.2
   },
   {
     "OS":1164,
@@ -2222,8 +2222,8 @@
     "Sistema":"SICIN",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-10-07",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Sem impedimento ",
+    "Porcentagem de cada OS em produção":0.6
   },
   {
     "OS":1163,
@@ -2307,7 +2307,7 @@
     "Status":"5. Execução Aceita - Aguardando Faturamento",
     "DT Entrega Atual SGAT":"2025-06-13",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1158,
@@ -2783,7 +2783,7 @@
     "Status":"5. Execução Aceita - Aguardando Faturamento",
     "DT Entrega Atual SGAT":"2025-07-15",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1125,
@@ -2824,8 +2824,8 @@
     "Sistema":"SRI",
     "Status":"4. Liberada Execução para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-07-21",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Execução sem analise da contratante",
+    "Porcentagem de cada OS em produção":0.6
   },
   {
     "OS":1122,
@@ -2838,8 +2838,8 @@
     "Sistema":"SRI",
     "Status":"4. Liberada Execução para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-07-21",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Nem todos os bugs estão corrigidos e testados",
+    "Porcentagem de cada OS em produção":0.5
   },
   {
     "OS":1120,
@@ -2894,8 +2894,8 @@
     "Sistema":"SICIN",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-28",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Teste na sexta 22\/08",
+    "Porcentagem de cada OS em produção":0.9
   },
   {
     "OS":1116,
@@ -3062,8 +3062,8 @@
     "Sistema":"SICIN",
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-29",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Teste na sexta 22\/08",
+    "Porcentagem de cada OS em produção":0.7
   },
   {
     "OS":1103,
@@ -3077,7 +3077,7 @@
     "Status":"5. Execução Aceita - Aguardando Faturamento",
     "DT Entrega Atual SGAT":"2025-04-22",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1102,
@@ -3091,7 +3091,7 @@
     "Status":"5. Execução Aceita - Aguardando Faturamento",
     "DT Entrega Atual SGAT":"2025-04-22",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1101,
@@ -3133,7 +3133,7 @@
     "Status":"5. Execução Aceita - Aguardando Faturamento",
     "DT Entrega Atual SGAT":"2025-04-24",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1097,
@@ -3161,7 +3161,7 @@
     "Status":"5. Execução Aceita - Aguardando Faturamento",
     "DT Entrega Atual SGAT":"2025-04-24",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1093,
@@ -3385,7 +3385,7 @@
     "Status":"5. Execução Aceita - Aguardando Faturamento",
     "DT Entrega Atual SGAT":"2025-03-28",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1075,
@@ -3399,7 +3399,7 @@
     "Status":"5. Execução Aceita - Aguardando Faturamento",
     "DT Entrega Atual SGAT":"2025-03-28",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1075,
@@ -3413,7 +3413,7 @@
     "Status":"5. Execução Aceita - Aguardando Faturamento",
     "DT Entrega Atual SGAT":"2025-03-28",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":1074,
@@ -3510,8 +3510,8 @@
     "Sistema":"SRI",
     "Status":"4. Liberada Execução para análise da Contratante",
     "DT Entrega Atual SGAT":"2025-08-13",
-    "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Descrição dos Impedimentos":"Execução sem analise da contratante",
+    "Porcentagem de cada OS em produção":0.85
   },
   {
     "OS":1067,
@@ -4715,7 +4715,7 @@
     "Status":"5. Execução Aceita - Aguardando Faturamento",
     "DT Entrega Atual SGAT":"",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":973,
@@ -4729,7 +4729,7 @@
     "Status":"5. Execução Aceita - Aguardando Faturamento",
     "DT Entrega Atual SGAT":"2025-03-21",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":972,
@@ -7067,7 +7067,7 @@
     "Status":"3. Demanda em Execução",
     "DT Entrega Atual SGAT":"2025-08-31",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":0.9
   },
   {
     "OS":806,
@@ -8257,7 +8257,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-10-16",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":729,
@@ -8271,7 +8271,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-10-15",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":728,
@@ -8537,7 +8537,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-11-01",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":709,
@@ -10287,7 +10287,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-09-03",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":593,
@@ -10357,7 +10357,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-08-09",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":588,
@@ -10455,7 +10455,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-08-09",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":581,
@@ -11057,7 +11057,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-08-15",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":541,
@@ -11071,7 +11071,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-08-13",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":540,
@@ -11085,7 +11085,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-08-09",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":539,
@@ -11561,7 +11561,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-07-19",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":507,
@@ -11897,7 +11897,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-07-17",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":483,
@@ -12037,7 +12037,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-06-28",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":473,
@@ -12051,7 +12051,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-07-05",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":472,
@@ -12261,7 +12261,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-07-05",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":459,
@@ -12275,7 +12275,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-07-05",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":458,
@@ -12345,7 +12345,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-06-28",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":454,
@@ -12625,7 +12625,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-06-14",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":439,
@@ -13115,7 +13115,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-06-14",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":406,
@@ -13129,7 +13129,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-06-14",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":405,
@@ -13143,7 +13143,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-06-14",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":404,
@@ -13157,7 +13157,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-06-05",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":403,
@@ -13829,7 +13829,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-05-30",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":354,
@@ -13843,7 +13843,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-05-30",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":353,
@@ -13857,7 +13857,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-05-30",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":353,
@@ -13871,7 +13871,7 @@
     "Status":"Faturada e Concluída",
     "DT Entrega Atual SGAT":"2024-05-30",
     "Descrição dos Impedimentos":"",
-    "Porcentagem de cada OS em produção":""
+    "Porcentagem de cada OS em produção":1.0
   },
   {
     "OS":352,
